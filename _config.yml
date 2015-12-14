@@ -1,0 +1,28 @@
+name: Real Digital Solutions
+favicon: null
+layout_spectrum: 0.7919392574112862
+typography_spectrum: 0.20651540183462203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8228327403776348
+  lightness: 0.6338266569655389
+  saturation: 0.014617606298997998
+  rhythmicContrast: 0.011160522233694792
+purpose: []
